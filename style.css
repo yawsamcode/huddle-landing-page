@@ -54,12 +54,9 @@ main {
   background-color: white;
   color: rgb(97, 95, 95);
 }
+
 .mockup_description > * {
   margin-bottom: 30px;
-}
-
-logo-twitter {
-  color: white;
 }
 
 .social {
