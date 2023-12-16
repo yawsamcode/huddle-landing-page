@@ -19,7 +19,7 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  background-image: url(/images/bg-desktop.svg);
+  background-image: url("https://res.cloudinary.com/dlykqebw2/image/upload/v1702696686/Huddle%20Landing%20Page/bg-desktop_xbykvy.svg");
   background-repeat: no-repeat;
 }
 
@@ -94,7 +94,7 @@ footer {
 
 @media (max-width: 375px) {
   body {
-    background-image: url(/images/bg-mobile.svg);
+    background-image: url(https://res.cloudinary.com/dlykqebw2/image/upload/v1702696687/Huddle%20Landing%20Page/bg-mobile_rhfoqb.svg);
     background-repeat: no-repeat;
     background-position: contain;
   }

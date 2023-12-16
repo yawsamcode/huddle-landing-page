@@ -25,13 +25,13 @@ Users should be able to:
 
 ## 🚀 Demo <a id="demo"></a>
 
-<h4><a href="https://yawsamcode.github.io/single-price-grid-component/">  Visit Demo 👉</a></h4>
+<h4><a href="https://yawsamcode.github.io/huddle-landing-page-introductory-section/">  Visit Demo 👉</a></h4>
 
 
 ## 📸Project Screenshots <a id="screenshot"></a>
 
-<img src="https://res.cloudinary.com/dlykqebw2/image/upload/v1702629082/desktop-design_fcqpzu.jpg" alt="shields">
-<img src="https://res.cloudinary.com/dlykqebw2/image/upload/v1702629038/mobile-design_rtvmfn.jpg" alt="shields">
+<img src="https://res.cloudinary.com/dlykqebw2/image/upload/v1702696720/Huddle%20Landing%20Page/active-states_raajmw.jpg" alt="shields">
+<img src="https://res.cloudinary.com/dlykqebw2/image/upload/v1702696720/Huddle%20Landing%20Page/mobile-design_zm3xlx.jpg" alt="shields">
 
   
 ## 💻 Built with <a id="built-with"></a>
