@@ -44,7 +44,7 @@ Technologies used in the project:
 
 ## 📖 What I learned <a id="what-i-learned"></a>
 
-<p>This challenge helped to reinforce my skills in the use of grid</p>
+<p>This challenge helped to hone my skills in the use of grid and flex box </p>
 
 ## 🛡️ License <a id="license"></a>
 
